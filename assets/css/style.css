@@ -509,6 +509,8 @@ nav .small-menu {
   height: 100%;
   color: #FFF;
   padding: 40px;
+  border-radius: 3px;
+  font-size: 18px;
 }
 .home-about .adout-det b {
   font-size: 2rem;
